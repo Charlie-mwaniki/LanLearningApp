@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/Charlie-mwaniki/LanLearningApp#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "buffered-reader": "^1.0.1",
     "cors": "^2.8.5",
